@@ -30,46 +30,16 @@
   <p align="center">
     Utilizing clustering to segment airline customers, analyzing each segment, and providing business recommendations based on the results
     <br /><br />
-    <a href = https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view>dataset here</a>
+    <a href = https://github.com/mohammedabyan/Airline-Customer-Segmentation-Using-Clustering/blob/main/Laporan%20Homework%20Unsupervised-%20W3.Solutions().pdf>Full documentation</a>
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#preview">Preview</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-The PowerBI project explores the use of adding new columns, measures, and visualization tools to create a sales performance dashboard. PowerBI (pbix) file 
-[here](https://github.com/mohammedabyan/PowerBISalesDashboard/blob/main/sandbox.pbix?raw=true)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-## Preview
-![image](https://user-images.githubusercontent.com/29911769/164699424-f5478f92-d711-4205-a750-6c51e9c85ee4.png)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Contact
 
 Mohammed Abyannash - mohammedabyan22@gmail.com
 
-Project Link: [https://github.com/mohammedabyan/fakeNewsDetection](https://github.com/mohammedabyan/fakeNewsDetection)
+Project Link: [https://github.com/mohammedabyan/fakeNewsDetection](https://github.com/mohammedabyan/Airline-Customer-Segmentation-Using-Clustering)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
